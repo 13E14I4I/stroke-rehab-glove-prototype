@@ -2,13 +2,11 @@
 
 A low-fidelity wearable rehabilitation glove prototype designed to assist finger flexion/extension after stroke using servo-driven actuation, a rubber cord transmission mechanism, resistance sensing, and Arduino-based data logging.
 
-## Prototype Demo
-
-![Stroke rehab glove prototype demo](media/prototype%20gif.gif)
-
 ## Prototype Overview
 
-![Annotated prototype](media/prototype.png)
+<p align="center">
+  <img src="media/prototype.png" alt="Annotated stroke rehab glove prototype" width="700">
+</p>
 
 This project explores a low-cost assistive glove concept for post-stroke hand rehabilitation. The prototype uses a servo motor and pulley/spool mechanism to apply controlled tension to a rubber cord attached to the finger. A voltage divider circuit is used to estimate resistance changes in the rubber cord during movement trials, allowing resistance-over-time data to be logged and visualized.
 
@@ -36,6 +34,12 @@ Hand dysfunction is a common persisting consequence after stroke, and repetitive
 - Python analysis script for resistance-versus-time plots
 - Sample CSV trial data and generated result plots
 - Prototype images, functional diagrams, and design documentation
+
+## Prototype Demo
+
+<p align="center">
+  <img src="media/prototype%20gif.gif" alt="Stroke rehab glove prototype demo" width="700">
+</p>
 
 ## Hardware
 
