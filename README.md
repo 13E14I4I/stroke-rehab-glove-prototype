@@ -38,7 +38,7 @@ Hand dysfunction is a common persisting consequence after stroke, and repetitive
 ## Prototype Demo
 
 <p align="center">
-  <img src="media/prototype%20gif.gif" alt="Stroke rehab glove prototype demo" width="700">
+  <img src="media/prototype%20gif.gif" alt="Stroke rehab glove prototype demo" width="700" height="600">
 </p>
 
 ## Hardware
